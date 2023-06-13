@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/HassanTAli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanTAli&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanTAli&theme=buefy&layout=compact" />
 </a>
